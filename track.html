@@ -51,13 +51,13 @@
             });
 
             map.addLayer(lgpx);
-            var lgpx = new OpenLayers.Layer.Vector("Lakeside cycle ride", {
+            var lgpx = new OpenLayers.Layer.Vector("2021-06-01_08-52_Tue", {
                 strategies: [new OpenLayers.Strategy.Fixed()],
                 protocol: new OpenLayers.Protocol.HTTP({
                     url: "tracks/2021-06-01_08-52_Tue.gpx",
                     format: new OpenLayers.Format.GPX()
                 }),
-                style: {strokeColor: "red", strokeWidth: 5, strokeOpacity: 0.5},
+                style: {strokeColor: "red", strokeWidth: 2, strokeOpacity: 1},
                 projection: new OpenLayers.Projection("EPSG:4326")
             });
 
