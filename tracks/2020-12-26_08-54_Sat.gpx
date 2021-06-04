@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-12-26_08-54_Sat</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.6446317" lon="37.4986141">
+        <ele>289</ele>
+        <time>2020-12-26T05:54:28Z</time>
+        <hdop>16.687</hdop>
+      </trkpt>
+      <trkpt lat="55.6446482" lon="37.4986226">
+        <ele>288</ele>
+        <time>2020-12-26T05:54:34Z</time>
+        <hdop>16.687</hdop>
+      </trkpt>
+      <trkpt lat="55.6446366" lon="37.4986243">
+        <ele>290</ele>
+        <time>2020-12-26T05:54:40Z</time>
+        <hdop>16.687</hdop>
+      </trkpt>
+      <trkpt lat="55.6446344" lon="37.498625">
+        <ele>290</ele>
+        <time>2020-12-26T05:54:45Z</time>
+        <hdop>15.17</hdop>
+      </trkpt>
+      <trkpt lat="55.6446351" lon="37.498623">
+        <ele>289</ele>
+        <time>2020-12-26T05:54:50Z</time>
+        <hdop>16.687</hdop>
+      </trkpt>
+      <trkpt lat="55.644635" lon="37.4986222">
+        <ele>289</ele>
+        <time>2020-12-26T05:54:56Z</time>
+        <hdop>16.687</hdop>
+      </trkpt>
+      <trkpt lat="55.6446247" lon="37.4986174">
+        <ele>287</ele>
+        <time>2020-12-26T05:55:02Z</time>
+        <hdop>15.17</hdop>
+        <extensions>
+          <speed>0.78</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6446558" lon="37.4985926">
+        <ele>286</ele>
+        <time>2020-12-26T05:55:08Z</time>
+        <hdop>13.653</hdop>
+      </trkpt>
+      <trkpt lat="55.6446527" lon="37.4985823">
+        <ele>285</ele>
+        <time>2020-12-26T05:55:13Z</time>
+        <hdop>13.653</hdop>
+      </trkpt>
+      <trkpt lat="55.6446439" lon="37.4985801">
+        <ele>281</ele>
+        <time>2020-12-26T05:55:18Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.36</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6446492" lon="37.4985181">
+        <ele>268</ele>
+        <time>2020-12-26T05:55:24Z</time>
+        <hdop>6.068</hdop>
+      </trkpt>
+      <trkpt lat="55.6447817" lon="37.4983863">
+        <ele>249</ele>
+        <time>2020-12-26T05:55:30Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448098" lon="37.4983931">
+        <ele>247</ele>
+        <time>2020-12-26T05:55:35Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448147" lon="37.4983971">
+        <ele>247</ele>
+        <time>2020-12-26T05:55:40Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448146" lon="37.4983976">
+        <ele>247</ele>
+        <time>2020-12-26T05:55:45Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448146" lon="37.4983978">
+        <ele>247</ele>
+        <time>2020-12-26T05:55:51Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448146" lon="37.4983984">
+        <ele>247</ele>
+        <time>2020-12-26T05:55:57Z</time>
+        <hdop>6.068</hdop>
+      </trkpt>
+      <trkpt lat="55.6448146" lon="37.4983988">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:03Z</time>
+        <hdop>6.068</hdop>
+      </trkpt>
+      <trkpt lat="55.6448147" lon="37.4983989">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:08Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448148" lon="37.4983989">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:13Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.644815" lon="37.4983989">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:19Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448153" lon="37.498399">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:25Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448152" lon="37.4983994">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:30Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6448079" lon="37.4984331">
+        <ele>247</ele>
+        <time>2020-12-26T05:56:36Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>2.96</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.644756" lon="37.49863">
+        <ele>243</ele>
+        <time>2020-12-26T05:56:42Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>1.49</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6446303" lon="37.4985082">
+        <ele>240</ele>
+        <time>2020-12-26T05:56:48Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>4.9</speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="55.6583212" lon="37.4330647">
+        <ele>205</ele>
+        <time>2020-12-26T06:33:36Z</time>
+        <hdop>6.068</hdop>
+        <extensions>
+          <speed>0.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6583582" lon="37.4331681">
+        <ele>209</ele>
+        <time>2020-12-26T06:33:42Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6584012" lon="37.4332713">
+        <ele>211</ele>
+        <time>2020-12-26T06:33:48Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.89</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.658422" lon="37.4333344">
+        <ele>211</ele>
+        <time>2020-12-26T06:33:53Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.89</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6584448" lon="37.4334043">
+        <ele>212</ele>
+        <time>2020-12-26T06:33:58Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.658463" lon="37.433496">
+        <ele>209</ele>
+        <time>2020-12-26T06:34:03Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6584067" lon="37.4335455">
+        <ele>209</ele>
+        <time>2020-12-26T06:34:09Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6583562" lon="37.4335891">
+        <ele>209</ele>
+        <time>2020-12-26T06:34:14Z</time>
+        <hdop>6.068</hdop>
+        <extensions>
+          <speed>0.91</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6582938" lon="37.4336742">
+        <ele>208</ele>
+        <time>2020-12-26T06:34:19Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6582432" lon="37.4337385">
+        <ele>209</ele>
+        <time>2020-12-26T06:34:24Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6582723" lon="37.4339138">
+        <ele>208</ele>
+        <time>2020-12-26T06:34:36Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6582498" lon="37.4339972">
+        <ele>206</ele>
+        <time>2020-12-26T06:34:42Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6582667" lon="37.4339971">
+        <ele>202</ele>
+        <time>2020-12-26T06:34:48Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6582666" lon="37.4339934">
+        <ele>202</ele>
+        <time>2020-12-26T06:34:53Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6582803" lon="37.4339801">
+        <ele>205</ele>
+        <time>2020-12-26T06:34:59Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>0.91</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6582863" lon="37.4339753">
+        <ele>206</ele>
+        <time>2020-12-26T06:35:04Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6582892" lon="37.4339777">
+        <ele>206</ele>
+        <time>2020-12-26T06:35:09Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.7.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-09-01_21-06_Tue</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.6332467" lon="37.4422439">
+        <ele>216</ele>
+        <time>2020-09-01T18:06:45Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>4.59</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6333777" lon="37.4427704">
+        <ele>216</ele>
+        <time>2020-09-01T18:06:51Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>5.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6334374" lon="37.4430163">
+        <ele>217</ele>
+        <time>2020-09-01T18:06:56Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>1.94</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6334915" lon="37.4431668">
+        <ele>218</ele>
+        <time>2020-09-01T18:07:01Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>2.34</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.633562" lon="37.4434387">
+        <ele>217</ele>
+        <time>2020-09-01T18:07:07Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>4.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6336785" lon="37.443866">
+        <ele>217</ele>
+        <time>2020-09-01T18:07:12Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>3.12</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6336555" lon="37.4440024">
+        <ele>215</ele>
+        <time>2020-09-01T18:07:17Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>2.44</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6335991" lon="37.4441533">
+        <ele>215</ele>
+        <time>2020-09-01T18:07:22Z</time>
+        <hdop>15.17</hdop>
+        <extensions>
+          <speed>1.66</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6335218" lon="37.4441885">
+        <ele>214</ele>
+        <time>2020-09-01T18:07:28Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>2.04</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6334704" lon="37.4442188">
+        <ele>214</ele>
+        <time>2020-09-01T18:07:33Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>1.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.633462" lon="37.4442346">
+        <ele>214</ele>
+        <time>2020-09-01T18:07:38Z</time>
+        <hdop>13.653</hdop>
+      </trkpt>
+      <trkpt lat="55.6334599" lon="37.4442393">
+        <ele>214</ele>
+        <time>2020-09-01T18:07:44Z</time>
+        <hdop>13.653</hdop>
+      </trkpt>
+      <trkpt lat="55.633422" lon="37.4442704">
+        <ele>214</ele>
+        <time>2020-09-01T18:07:50Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>2.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6332919" lon="37.4444744">
+        <ele>214</ele>
+        <time>2020-09-01T18:07:55Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>3.33</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6332275" lon="37.4446124">
+        <ele>214</ele>
+        <time>2020-09-01T18:08:00Z</time>
+        <hdop>13.653</hdop>
+        <extensions>
+          <speed>1.73</speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

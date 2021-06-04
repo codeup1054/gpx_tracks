@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2021-02-25_18-45_Thu</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.6469796" lon="37.5002239">
+        <ele>0</ele>
+        <time>2021-02-25T15:45:35Z</time>
+        <hdop>18.625</hdop>
+      </trkpt>
+      <trkpt lat="55.646999" lon="37.4999601">
+        <ele>184</ele>
+        <time>2021-02-25T15:46:13Z</time>
+        <hdop>48.544</hdop>
+      </trkpt>
+      <trkpt lat="55.6469986" lon="37.5000034">
+        <ele>191</ele>
+        <time>2021-02-25T15:46:19Z</time>
+        <hdop>36.408</hdop>
+      </trkpt>
+      <trkpt lat="55.646969" lon="37.5000743">
+        <ele>199</ele>
+        <time>2021-02-25T15:46:24Z</time>
+        <hdop>28.823</hdop>
+      </trkpt>
+      <trkpt lat="55.6469688" lon="37.5000751">
+        <ele>216</ele>
+        <time>2021-02-25T15:46:29Z</time>
+        <hdop>37.925</hdop>
+      </trkpt>
+      <trkpt lat="55.6469694" lon="37.500074">
+        <ele>215</ele>
+        <time>2021-02-25T15:46:34Z</time>
+        <hdop>39.442</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

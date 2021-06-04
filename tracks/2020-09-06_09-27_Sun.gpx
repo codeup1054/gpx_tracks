@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.7.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-09-06_09-27_Sun</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.6449554" lon="37.497647">
+        <ele>0</ele>
+        <time>2020-09-06T06:27:19Z</time>
+        <hdop>28.568</hdop>
+      </trkpt>
+      <trkpt lat="55.644973" lon="37.4976887">
+        <ele>0</ele>
+        <time>2020-09-06T06:27:27Z</time>
+        <hdop>27.606</hdop>
+      </trkpt>
+      <trkpt lat="55.6449299" lon="37.4975459">
+        <ele>242</ele>
+        <time>2020-09-06T06:27:33Z</time>
+        <hdop>40.959</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

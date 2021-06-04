@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2021-03-06_11-04_Sat</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.6451483" lon="37.4974611">
+        <ele>0</ele>
+        <time>2021-03-06T08:04:29Z</time>
+        <hdop>20.042</hdop>
+      </trkpt>
+      <trkpt lat="55.6451486" lon="37.4974298">
+        <ele>0</ele>
+        <time>2021-03-06T08:04:52Z</time>
+        <hdop>19.687</hdop>
+      </trkpt>
+      <trkpt lat="55.6451571" lon="37.4974693">
+        <ele>0</ele>
+        <time>2021-03-06T08:05:12Z</time>
+        <hdop>18.156</hdop>
+      </trkpt>
+      <trkpt lat="55.645157" lon="37.4974814">
+        <ele>0</ele>
+        <time>2021-03-06T08:05:32Z</time>
+        <hdop>16.895</hdop>
+      </trkpt>
+      <trkpt lat="55.6451578" lon="37.4974748">
+        <ele>0</ele>
+        <time>2021-03-06T08:05:52Z</time>
+        <hdop>17.624</hdop>
+      </trkpt>
+      <trkpt lat="55.6451575" lon="37.497472">
+        <ele>0</ele>
+        <time>2021-03-06T08:06:12Z</time>
+        <hdop>17.843</hdop>
+      </trkpt>
+      <trkpt lat="55.6451444" lon="37.4973905">
+        <ele>0</ele>
+        <time>2021-03-06T08:06:33Z</time>
+        <hdop>19.276</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

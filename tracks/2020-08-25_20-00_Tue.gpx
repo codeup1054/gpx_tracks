@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.7.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-08-25_20-00_Tue</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.687139" lon="37.5729676">
+        <ele>0</ele>
+        <time>2020-08-25T17:00:05Z</time>
+        <hdop>26.4</hdop>
+      </trkpt>
+      <trkpt lat="55.6871391" lon="37.5729683">
+        <ele>0</ele>
+        <time>2020-08-25T17:00:16Z</time>
+        <hdop>20.9</hdop>
+      </trkpt>
+      <trkpt lat="55.6871389" lon="37.5729677">
+        <ele>0</ele>
+        <time>2020-08-25T17:00:27Z</time>
+        <hdop>24.9</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

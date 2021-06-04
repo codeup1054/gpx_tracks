@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.3" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-10-01_15-11_Thu</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.7861489" lon="37.6600072">
+        <ele>0</ele>
+        <time>2020-10-01T12:11:39Z</time>
+        <hdop>20</hdop>
+      </trkpt>
+      <trkpt lat="55.7861507" lon="37.6600057">
+        <ele>0</ele>
+        <time>2020-10-01T12:11:59Z</time>
+        <hdop>20</hdop>
+      </trkpt>
+      <trkpt lat="55.7861508" lon="37.6600069">
+        <ele>0</ele>
+        <time>2020-10-01T12:12:19Z</time>
+        <hdop>12.598</hdop>
+      </trkpt>
+      <trkpt lat="55.7861511" lon="37.6600095">
+        <ele>0</ele>
+        <time>2020-10-01T12:12:39Z</time>
+        <hdop>13.119</hdop>
+      </trkpt>
+      <trkpt lat="55.7861564" lon="37.6600123">
+        <ele>0</ele>
+        <time>2020-10-01T12:13:00Z</time>
+        <hdop>13.689</hdop>
+      </trkpt>
+      <trkpt lat="55.7861537" lon="37.6600118">
+        <ele>0</ele>
+        <time>2020-10-01T12:13:20Z</time>
+        <hdop>14.908</hdop>
+      </trkpt>
+      <trkpt lat="55.78615" lon="37.6600118">
+        <ele>0</ele>
+        <time>2020-10-01T12:13:40Z</time>
+        <hdop>20</hdop>
+      </trkpt>
+      <trkpt lat="55.7861502" lon="37.6600104">
+        <ele>0</ele>
+        <time>2020-10-01T12:14:00Z</time>
+        <hdop>20</hdop>
+      </trkpt>
+      <trkpt lat="55.78615" lon="37.6600094">
+        <ele>0</ele>
+        <time>2020-10-01T12:14:20Z</time>
+        <hdop>20</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

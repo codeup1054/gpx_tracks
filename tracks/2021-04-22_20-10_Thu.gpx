@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2021-04-22_20-10_Thu</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.7378546" lon="37.5264671">
+        <ele>163</ele>
+        <time>2021-04-22T17:10:51Z</time>
+        <hdop>10.619</hdop>
+        <extensions>
+          <speed>3.03</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.7379012" lon="37.5266233">
+        <ele>161</ele>
+        <time>2021-04-22T17:10:56Z</time>
+        <hdop>6.068</hdop>
+        <extensions>
+          <speed>1.1</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.7379535" lon="37.5268857">
+        <ele>161</ele>
+        <time>2021-04-22T17:11:01Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>4.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.7380492" lon="37.5272689">
+        <ele>163</ele>
+        <time>2021-04-22T17:11:06Z</time>
+        <hdop>4.551</hdop>
+        <extensions>
+          <speed>3.73</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.7380567" lon="37.5273253">
+        <ele>160</ele>
+        <time>2021-04-22T17:11:11Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.7380598" lon="37.5273282">
+        <ele>161</ele>
+        <time>2021-04-22T17:11:17Z</time>
+        <hdop>6.068</hdop>
+      </trkpt>
+      <trkpt lat="55.7380606" lon="37.5273224">
+        <ele>161</ele>
+        <time>2021-04-22T17:11:23Z</time>
+        <hdop>6.068</hdop>
+      </trkpt>
+      <trkpt lat="55.7381423" lon="37.5277006">
+        <ele>161</ele>
+        <time>2021-04-22T17:11:28Z</time>
+        <hdop>9.102</hdop>
+        <extensions>
+          <speed>5.77</speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

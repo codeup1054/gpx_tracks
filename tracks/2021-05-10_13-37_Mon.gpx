@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2021-05-10_13-37_Mon</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.6451958" lon="37.4972495">
+        <ele>0</ele>
+        <time>2021-05-10T10:37:39Z</time>
+        <hdop>20.998</hdop>
+      </trkpt>
+      <trkpt lat="55.6451958" lon="37.4972495">
+        <ele>0</ele>
+        <time>2021-05-10T10:37:58Z</time>
+        <hdop>20.998</hdop>
+      </trkpt>
+      <trkpt lat="55.6451801" lon="37.4972518">
+        <ele>0</ele>
+        <time>2021-05-10T10:38:21Z</time>
+        <hdop>21.796</hdop>
+      </trkpt>
+      <trkpt lat="55.6447581" lon="37.4975732">
+        <ele>245</ele>
+        <time>2021-05-10T10:42:38Z</time>
+        <hdop>48.544</hdop>
+        <extensions>
+          <speed>2.63</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6450152" lon="37.4979291">
+        <ele>273</ele>
+        <time>2021-05-10T10:42:45Z</time>
+        <hdop>37.925</hdop>
+      </trkpt>
+      <trkpt lat="55.6449555" lon="37.4978317">
+        <ele>270</ele>
+        <time>2021-05-10T10:42:51Z</time>
+        <hdop>16.687</hdop>
+      </trkpt>
+      <trkpt lat="55.644985" lon="37.4977246">
+        <ele>263</ele>
+        <time>2021-05-10T10:42:57Z</time>
+        <hdop>10.619</hdop>
+      </trkpt>
+      <trkpt lat="55.6449873" lon="37.4977071">
+        <ele>262</ele>
+        <time>2021-05-10T10:43:02Z</time>
+        <hdop>9.102</hdop>
+      </trkpt>
+      <trkpt lat="55.6449699" lon="37.4976987">
+        <ele>263</ele>
+        <time>2021-05-10T10:43:07Z</time>
+        <hdop>10.619</hdop>
+        <extensions>
+          <speed>1.09</speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

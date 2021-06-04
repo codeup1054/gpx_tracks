@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.8.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-10-17_17-59_Sat</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.626051" lon="37.5130938">
+        <ele>258</ele>
+        <time>2020-10-17T14:59:44Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260529" lon="37.5130858">
+        <ele>257</ele>
+        <time>2020-10-17T14:59:50Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260514" lon="37.5130767">
+        <ele>256</ele>
+        <time>2020-10-17T14:59:56Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260519" lon="37.5130762">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:02Z</time>
+        <hdop>7.585</hdop>
+      </trkpt>
+      <trkpt lat="55.6260568" lon="37.5130831">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:08Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260588" lon="37.5130898">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:14Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260595" lon="37.5130925">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:19Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260603" lon="37.513092">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:24Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260628" lon="37.5130909">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:30Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.626063" lon="37.513091">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:35Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.626063" lon="37.5130911">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:40Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.626063" lon="37.5130911">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:45Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+      <trkpt lat="55.6260628" lon="37.513091">
+        <ele>256</ele>
+        <time>2020-10-17T15:00:51Z</time>
+        <hdop>4.551</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

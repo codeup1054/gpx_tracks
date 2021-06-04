@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.7.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-09-10_16-59_Thu</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="55.7525965" lon="37.6362653">
+        <ele>154</ele>
+        <time>2020-09-10T13:59:58Z</time>
+        <hdop>39.442</hdop>
+        <extensions>
+          <speed>0.39</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.7525902" lon="37.6360623">
+        <ele>160</ele>
+        <time>2020-09-10T14:00:03Z</time>
+        <hdop>27.306</hdop>
+        <extensions>
+          <speed>0.78</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.7526152" lon="37.6362026">
+        <ele>158</ele>
+        <time>2020-09-10T14:00:08Z</time>
+        <hdop>25.789</hdop>
+      </trkpt>
+      <trkpt lat="55.752598" lon="37.6362246">
+        <ele>158</ele>
+        <time>2020-09-10T14:00:14Z</time>
+        <hdop>21.238</hdop>
+      </trkpt>
+      <trkpt lat="55.7525918" lon="37.6362451">
+        <ele>160</ele>
+        <time>2020-09-10T14:00:20Z</time>
+        <hdop>18.204</hdop>
+      </trkpt>
+      <trkpt lat="55.7525937" lon="37.636257">
+        <ele>160</ele>
+        <time>2020-09-10T14:00:26Z</time>
+        <hdop>21.238</hdop>
+      </trkpt>
+      <trkpt lat="55.7525938" lon="37.6362588">
+        <ele>160</ele>
+        <time>2020-09-10T14:00:31Z</time>
+        <hdop>21.238</hdop>
+      </trkpt>
+      <trkpt lat="55.7525937" lon="37.6362628">
+        <ele>160</ele>
+        <time>2020-09-10T14:00:37Z</time>
+        <hdop>21.238</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
